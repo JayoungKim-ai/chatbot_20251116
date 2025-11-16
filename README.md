@@ -49,5 +49,23 @@ Streamlit 기반 인터랙티브 대시보드
 
 ---
 
-## 📌 프로젝트 구조
+
+---
+
+## 🛠 사용 기술 스택
+
+| 분야 | 기술 |
+|------|------|
+| Web UI | Streamlit |
+| Data Processing | pandas, re, requests, BeautifulSoup |
+| NLP | Kiwipiepy, WordCloud |
+| Embeddings | OpenAIEmbeddings |
+| Vector DB | FAISS |
+| LLM | ChatOpenAI (gpt-4o-mini) |
+| Visualization | matplotlib |
+
+---
+
+
+
 
